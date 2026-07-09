@@ -1,0 +1,24 @@
+{
+  "companies": [
+    {
+      "name": "Green Energy Solutions",
+      "location": "Does it change"
+    },
+    {
+      "name": "HealthPlus Medical",
+      "location": "New York, NY"
+    },
+    {
+      "name": "Test Company",
+      "location": "NEW TEST LAND"
+    },
+    {
+      "name": "New Test Co",
+      "location": "The Land of Test"
+    },
+    {
+      "name": "Final post test co",
+      "location": "Final put test"
+    }
+  ]
+}
