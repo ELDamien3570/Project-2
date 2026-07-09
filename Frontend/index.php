@@ -77,7 +77,7 @@
         <form method="POST">
             <label>Name: <input type="text" name="name"></label></br>
             <label>Location: <input type="text" name="location"></label></br>
-            
+            </br>
             <button type="submit" name="action" value="get_all">Get All</button>
             <button type="submit" name="action" value="get_name">Get by Name</button>
             <button type="submit" name="action" value="post">Create Company</button>
